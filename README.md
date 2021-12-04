@@ -2,11 +2,11 @@
 
 Bem Vindo ao meu Git, Meu nome é Vinicius, estou Feliz por Receber sua visita aqui!!
 
-🌱-Atualmente sou Front-End, e estudo linguagens sobre o assunto! Tambem finalizei recentemente um Curso técnico em Dev de Sistemas na Etec de Guaianases.
+🌱-Atualmente sou Front-End, e estudo linguagens sobre o assunto! Finalizei recentemente um curso técnico em Dev de Sistemas na Etec de Guaianazes.
 
-👀-No momento estou estudo React/React-Native
+👀-No momento estou estudando React/React-Native
 
-📧- Voce pode me Contatar no meu E-mail: estudosviny@gmail.com
+📧- Voce pode me contatar no meu E-mail: estudosviny@gmail.com
 
 <div align="left">
   <a href="https://github.com/VinyProgramador">
