@@ -2,11 +2,11 @@
 
 Bem Vindo ao meu Git, Meu nome é Vinicius, estou Feliz por Receber sua visita aqui!!
 
-🌱-Atualmente sou Front-End, e estudo linguagens sobre o assunto! Sou técnico em Desenvolvimento de Sistemas na Etec de Guaianazes, e estou Cursando Análise e Desenvolvimento de sistemas Na faculdade SpTechSchool.
+🌱-Sou técnico em Desenvolvimento de Sistemas na Etec de Guaianazes, e estou Cursando Análise e Desenvolvimento de sistemas Na faculdade SpTechSchool.
 
-👀-No momento estou estudando JavaScript/React
+👀-No momento estou estudando JavaScript/React/Node
 
-📧- Voce pode me contatar no meu E-mail: estudosviny@gmail.com
+📧- Voce pode me contatar no meu E-mail: vinicius.nunes@sptech.school
 
 <div align="left">
   <a href="https://github.com/VinyProgramador">
@@ -29,5 +29,5 @@ Bem Vindo ao meu Git, Meu nome é Vinicius, estou Feliz por Receber sua visita a
 <div> 
  <a href="https://www.linkedin.com/in/vin%C3%ADcius-almeida-52144420b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href=""></a>
- <a href = "mailto:estudosviny@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:vinicius.nunes@sptech.school"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
