@@ -2,9 +2,9 @@
 
 Bem Vindo ao meu Git, Meu nome é Vinicius, estou Feliz por Receber sua visita aqui!!
 
-🌱-Sou técnico em Desenvolvimento de Sistemas na Etec de Guaianazes, e estou Cursando Análise e Desenvolvimento de sistemas Na faculdade SpTechSchool.
+🌱-Sou técnico em Desenvolvimento de Sistemas formado na Etec de Guaianazes, e estou Cursando Análise e Desenvolvimento de sistemas Na faculdade SpTechSchool.
 
-👀-No momento estou estudando JavaScript/React/NodeJs
+👀-No momento estou estudando JavaScript e outras linguagens também, porém amo Js :)
 
 📧- Voce pode me contatar no meu E-mail: vinicius.nunes@sptech.school
 
