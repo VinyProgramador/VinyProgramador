@@ -6,7 +6,7 @@ Bem Vindo ao meu Git, Meu nome é Vinicius, estou Feliz por Receber sua visita a
 
 👀-No momento estou estudando VueJs.
 
-💻-Futuro engenhrito Front-endEngenheiro de Software Front-End.
+💻-Futuro Engenheiro de Software Front-End.
 
 📧- Voce pode me contatar no meu E-mail: vinicius.nunes@sptech.school
 
