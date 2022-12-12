@@ -4,7 +4,7 @@ Bem Vindo ao meu Git, Meu nome é Vinicius, estou Feliz por Receber sua visita a
 
 🌱-Sou técnico em Desenvolvimento de Sistemas formado na Etec de Guaianazes, e estou Cursando Análise e Desenvolvimento de sistemas Na faculdade SpTechSchool.
 
-👀-No momento estou estudando VueJs.
+👀-No momento estou estudando React.
 
 💻-Futuro Engenheiro de Software Front-End.
 
