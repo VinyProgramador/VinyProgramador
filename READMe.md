@@ -13,10 +13,7 @@ Bem Vindo ao meu Git, Meu nome é Vinicius, estou Feliz por Receber sua visita a
 ## &#x1f4c8; GitHub Stats
 
 <div>
-  <h2>Informações sobre meu GitHub 2023:</h2>
-  <a href="https://github.com/VinyProgramador">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VinyProgramador&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinyProgramador&layout=compact&langs_count=7&theme=gotham"/>
+  ![VinyProgramador's Stats](https://github-readme-stats.vercel.app/api?username=VinyProgramador&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 </div>
   
 <div style="display: inline_block"><br>
