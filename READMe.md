@@ -12,12 +12,12 @@ Bem Vindo ao meu Git, Meu nome é Vinicius, estou Feliz por Receber sua visita a
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/VinyProgramador">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinyProgramador&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/VinyProgramador/VinyProgramador">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VinyProgramador&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Viny GitHub Stats" />
-</a>
+<div>
+  <h2>Informações sobre meu GitHub 2023:</h2>
+  <a href="https://github.com/VinyProgramador">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VinyProgramador&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinyProgramador&layout=compact&langs_count=7&theme=gotham"/>
+</div>
   
 <div style="display: inline_block"><br>
  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
