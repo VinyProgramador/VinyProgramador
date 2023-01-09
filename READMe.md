@@ -13,7 +13,7 @@ Bem Vindo ao meu Git, Meu nome é Vinicius, estou Feliz por Receber sua visita a
 ## &#x1f4c8; GitHub Stats
 
 <div>
-  
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=VinyProgramador&theme=vue-dark&hide_border=true">
 </div>
   
 <div style="display: inline_block"><br>
