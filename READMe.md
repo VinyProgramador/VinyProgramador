@@ -13,7 +13,7 @@ Bem Vindo ao meu Git, Meu nome é Vinicius, estou Feliz por Receber sua visita a
 ## &#x1f4c8; GitHub Stats
 
 <div>
-  ![VinyProgramador's Stats](https://github-readme-stats.vercel.app/api?username=VinyProgramador&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  
 </div>
   
 <div style="display: inline_block"><br>
