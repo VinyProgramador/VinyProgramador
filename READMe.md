@@ -13,9 +13,9 @@ Bem Vindo ao meu Git, Meu nome é Vinicius, estou Feliz por Receber sua visita a
 ## &#x1f4c8; GitHub Stats
 
 <div>
-  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=VinyProgramador&theme=vue-dark&hide_border=true">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=VinyProgramador&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinyProgramador&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=VinyProgramador&theme=vue-dark&hide_border=true">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=VinyProgramador&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinyProgramador&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
 </div>
   
 <div style="display: inline_block"><br>
