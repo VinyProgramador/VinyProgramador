@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu repositório no GitHub!
 
-🌱 Sou técnico em Desenvolvimento de Sistemas formado na Etec de Guaianazes e atualmente estou cursando Análise e Desenvolvimento de Sistemas na faculdade São Paulo Tech School.
+🌱 Sou técnico em Desenvolvimento de Sistemas formado na Etec de Guaianases e atualmente estou cursando Pós Tech na FIAP "IA para Devs". Minha formação é de Análise e Desenvolvimento de Sistemas na faculdade São Paulo Tech School.
 
 👀 No momento, estou focado em estudar tecnologias que utilizam JavaScript e Java.
 
